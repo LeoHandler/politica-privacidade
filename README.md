@@ -1,7 +1,7 @@
 ## Política de Privacidade
 
 **Nome do App:** Barbearia Elite  
-**Desenvolvedor:** Leonardo da Silva Santos - CODIFICA.PRO
+**Desenvolvedor:** Leonardo da Silva Santos - [CODIFICA.PRO](https://codifica.pro)  
 **Contato:** [leosnts17@gmail.com](mailto:leosnts17@gmail.com)
 
 Este aplicativo **não coleta, armazena ou compartilha dados pessoais dos usuários**.
